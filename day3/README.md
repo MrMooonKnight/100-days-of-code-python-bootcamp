@@ -1,11 +1,11 @@
-# Day 2 - Understanding Data Types and How to Manipulate Strings
+# Day 3 - Control Flow and Logical Operators
 ## Concepts Practised
-- Python Primitive Data Types
-- Type Error, Type Checking and Type Conversion
-- Data Types
-- Mathematical Operations in Python
-- Number Manipulation and F Strings in Python
-## Tip Calculator
-![day02](https://user-images.githubusercontent.com/98851253/154178407-2fd555e2-2bdd-4a87-ad03-477e07cb307e.gif)
+- Control Flow with if / else and Conditional Operators
+- Modulo Operator
+- Nested if statements and elif statements
+- Multiple If Statements in Succession
+- Logical Operators
+## Treasure Island
+![day03](https://user-images.githubusercontent.com/98851253/154304693-a3aa3a5a-e8f3-46b8-bcea-6f0884aad99c.gif)
 
-https://replit.com/@TalhaAsghar3/tip-calculator-start
+https://replit.com/@TalhaAsghar3/treasure-island-start
