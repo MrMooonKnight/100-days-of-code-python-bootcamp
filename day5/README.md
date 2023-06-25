@@ -3,7 +3,7 @@
 <h2 align="left">Exercises : 
 </h2>
 
-# Password Generator
+# 1. Password Generator
 
 This is the solution to the password generator project.
 
