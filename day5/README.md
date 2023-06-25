@@ -1,3 +1,7 @@
+<h1 align="center">Day 5 : Exercises And Projects
+</h1>
+<h2 align="left">Exercises : 
+</h2>
 # Password Generator
 
 This is the solution to the password generator project.
