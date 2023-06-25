@@ -5,18 +5,7 @@
 ## Password Generator
 ![day05](https://user-images.githubusercontent.com/98851253/154311198-83cc6a60-6a57-4e21-bb01-6b54593def0e.gif)
 
-replit.com/@TalhaAsghar3/password-generator-end#main.py
-
-
-<h1 align="center">Day 5 : Exercises And Projects
-</h1>
-<h2 align="left">Exercises : 
-</h2>
-
-# 1. Password Generator
-
-This is the solution to the password generator project.
-
+https://replit.com/@TalhaAsghar3/password-generator-end#main.py
 
 ## Instructions
 
