@@ -15,6 +15,7 @@ Here I will be uploading all the projects and tasks that I did in the Udemy cour
 - [Day 5:](https://github.com/mrblackhearts/100-days-of-code-python-bootcamp/tree/main/day5) Python Loops
 - [Day 6:](https://github.com/mrblackhearts/100-days-of-code-python-bootcamp/tree/main/day6) Python Functions & Karel
 - [Day 7:](https://github.com/mrblackhearts/100-days-of-code-python-bootcamp/tree/main/day7) Hangman
+- [Day 8:](https://github.com/mrblackhearts/100-days-of-code-python-bootcamp/tree/main/day8) Function Parameters & Caesar Cipher
     
 
 
