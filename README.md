@@ -16,7 +16,7 @@ Here I will be uploading all the projects and tasks that I did in the Udemy cour
 - [Day 6:](https://github.com/mrblackhearts/100-days-of-code-python-bootcamp/tree/main/day6) Python Functions & Karel
 - [Day 7:](https://github.com/mrblackhearts/100-days-of-code-python-bootcamp/tree/main/day7) Hangman
 - [Day 8:](https://github.com/mrblackhearts/100-days-of-code-python-bootcamp/tree/main/day8) Function Parameters & Caesar Cipher
-- [Day 9:]() Dictionaries, Nesting and the Secret Auction
+- [Day 9:](https://github.com/mrblackhearts/100-days-of-code-python-bootcamp/tree/main/day9) Dictionaries, Nesting and the Secret Auction
 - [Day 10:]() Functions with Outputs
 - [Day 11:]() The Blackjack Capstone Project
 - [Day 12:]() Scope & Number Guessing Game
