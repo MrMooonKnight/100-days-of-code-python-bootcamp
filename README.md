@@ -19,7 +19,7 @@ Here I will be uploading all the projects and tasks that I did in the Udemy cour
 - [Day 9:](https://github.com/mrblackhearts/100-days-of-code-python-bootcamp/tree/main/day09) Dictionaries, Nesting and the Secret Auction
 - [Day 10:](https://github.com/mrblackhearts/100-days-of-code-python-bootcamp/tree/main/day10) Functions with Outputs
 - [Day 11:](https://github.com/mrblackhearts/100-days-of-code-python-bootcamp/tree/main/day11) The Blackjack Capstone Project
-- [Day 12:]() Scope & Number Guessing Game
+- [Day 12:](https://github.com/mrblackhearts/100-days-of-code-python-bootcamp/tree/main/day12) Scope & Number Guessing Game
 - [Day 13:]() Debugging: How to Find and Fix Errors in your Code
 - [Day 14:]() Higher Lower Game Project
     
