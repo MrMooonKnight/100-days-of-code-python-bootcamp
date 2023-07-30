@@ -20,10 +20,11 @@ Here I will be uploading all the projects and tasks that I did in the Udemy cour
 - [Day 10:](https://github.com/mrblackhearts/100-days-of-code-python-bootcamp/tree/main/day10) Functions with Outputs
 - [Day 11:](https://github.com/mrblackhearts/100-days-of-code-python-bootcamp/tree/main/day11) The Blackjack Capstone Project
 - [Day 12:](https://github.com/mrblackhearts/100-days-of-code-python-bootcamp/tree/main/day12) Scope & Number Guessing Game
-- [Day 13:]() Debugging: How to Find and Fix Errors in your Code
-- [Day 14:]() Higher Lower Game Project
-    
+Day 13:](https://github.com/mrblackhearts/100-days-of-code-python-bootcamp/tree/main/day13) Debugging: How to Find and Fix Errors in your Code
+- [Day 14:](https://github.com/mrblackhearts/100-days-of-code-python-bootcamp/tree/main/day14) Higher Lower Game Project
 
+## 📚 Intermediate
+- [Day 15:](https://github.com/mrblackhearts/100-days-of-code-python-bootcamp/tree/main/day15) Local Development Environment Setup & the Coffee Machine
 
 
 ## ⚙ Tools and Technologies Covered
